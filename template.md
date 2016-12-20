@@ -36,3 +36,8 @@ Procedure (Approximate Duration)
 0. Description of step one.
 0. Description of step two.
 0. ...
+
+Workflow Information
+---
+Describe how this protocol fits in with a larger workflow. Which protocols come before it, and which come after it.
+
