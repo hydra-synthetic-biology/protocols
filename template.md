@@ -1,0 +1,34 @@
+Protocol Name
+===
+
+A one sentence description of what the protocol does.
+
+Inputs
+---
+0. First infomation containing sample input (e.g. a hydra strain, a plasmid, or ...)
+0. Second information containing sample input
+0. ...
+
+Outputs
+---
+0. First infomation containing sample output
+0. Second information containing sample output
+0. ...
+
+Other Materials and Supplies
+---
+0. First consumed material or supply (e.g. growth media, electrocuvette, or ...)
+0. Second consumed material or supply
+0. ...
+
+Equipment
+---
+0. First instrument or piece of equipment needed (e.g. Thermocycler)
+0. Second consumed material or supply
+0. ...
+
+Procedure (Approximate Duration)
+---
+0. Description of step one.
+0. Description of step two.
+0. ...
