@@ -15,6 +15,10 @@ Outputs
 0. Second information containing sample output
 0. ...
 
+Data
+---
+Describe the data, if any, that is produced by this protocol including a description of the file format(s) for the data.
+
 Other Materials and Supplies
 ---
 0. First consumed material or supply (e.g. growth media, electrocuvette, or ...)
