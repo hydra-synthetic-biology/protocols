@@ -19,7 +19,7 @@ N/A
 
 Materials and Supplies
 ---
-0. Hydra dissociation medium
+0. Hydra Dissociation Medium (DM)
 0. Ice
 
 Equipment
