@@ -47,7 +47,7 @@ Workflow Information
 
 This protocol is used to separate endoderm and ectoderm tissue layers in Hydra vulgaris for using in biophysical measurements and aggregate preparation.
 
-Proceed with aggregate preperation protocol or biophysical measurements.
+Proceed with dissociation protocol or biophysical measurements.
 
 
 
