@@ -1,4 +1,4 @@
-Hydra Medium
+Hydra Medium (100L)
 ===
 
 Inputs
