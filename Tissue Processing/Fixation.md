@@ -50,5 +50,3 @@ Protocols after fixation.
 
 0. In Situ hybridizations
 0. Immunostaining
-
-This protocol may be used after prefered dissection or on whole animals. Typically this protocol precedes any immunostaining or in situ hybridizations.
