@@ -6,7 +6,7 @@ This protocol preserves tissue for further tissue processing.
 Inputs
 ---
 
-0. Unpreserved Hydra Tissue
+0. Starved Hydra Tissue
 
 Outputs
 ---
@@ -33,7 +33,7 @@ Equipment
 Procedure
 ---
 
-0. Put polyps that have not been fed for 24 hours into a 12-well microtiter plate (up to 20 animals per well)
+0. Put starved polyps into a 12-well microtiter plate (up to 20 animals per well)
 0. Remove Hydra medium and replace with a solution of 2% urethane in Hydra medium. Incubate on a light box at room temperature for 40-60 seconds (don’t incubate longer than this, as it damages the tissue).
 0. Using a Pasteur pipette, squirt about 2 mls of freshly prepared 4% paraformaldehyde in Hydra medium into each well
 0. Save the unused portion of the 4% paraformaldehyde solution at 4°C for refixation
@@ -41,5 +41,14 @@ Procedure
 
 Workflow Information
 ---
+Protocols before fixation.
+
+0. Dissections
+0. Starvation
+
+Protocols after fixation.
+
+0. In Situ hybridizations
+0. Immunostaining
 
 This protocol may be used after prefered dissection or on whole animals. Typically this protocol precedes any immunostaining or in situ hybridizations.
