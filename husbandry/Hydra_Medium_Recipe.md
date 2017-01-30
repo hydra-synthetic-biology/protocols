@@ -1,15 +1,15 @@
-Hydra Medium (100L)
+Hydra Medium (50L)
 ===
 
 Inputs
 ---
 
 0. Nanopure H2O
-0. CaCl2 - 14.7g
-0. MgCl2 - 2.03g
-0. NaHCO3 - .303g
-0. KNO3 - 4.2g
-0. MGSO4 - -.96g
+0. CaCl2 - 7.35g
+0. MgCl2 - 1.02g
+0. NaHCO3 - .15g
+0. KNO3 - 2.1g
+0. MGSO4 - 0.48g
 
 Outputs
 ---
@@ -27,5 +27,5 @@ Procedure
 ---
 0. Weigh out each salt
 0. Place weighed salt into Nalgene tank.
-0. Add 100L Nanopure H20
+0. Add 50L Nanopure H20
 0. Stir with Stir paddle until all salts are dissolved.
