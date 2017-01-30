@@ -35,7 +35,7 @@ Procedure
 0. Rinse with Hydra Medium
 0. Use transfer pippette to collect brine shrimp out of collection dish
 0. Give each hydra tray approximately 3 pippettes of brine shimp.
-0. Clean Equipment with isopropanol and DI H20
+0. Clean Equipment by first rinsing with DI H2O. Then with isopropanol by dunking and place on drying rack
 
 Workflow Information
 ---
