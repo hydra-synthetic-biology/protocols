@@ -1,4 +1,4 @@
-Soft Agar Freezing Recipe
+Soft Agar Freezing Recipe (50ml)
 ===
 
 Input
