@@ -31,5 +31,6 @@ Procedure
 Workflow Information
 ---
 
-Post Soft Agar Freezing Solution Recipe 
+Post Soft Agar Freezing Solution Recipe
+
 0. Hydra Freezing Protocols
