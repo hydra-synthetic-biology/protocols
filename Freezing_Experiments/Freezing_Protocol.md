@@ -5,7 +5,7 @@ Inputs
 ---
 
 0. Starved Hydra (variable stages of development)
-0. Freezing Solution (variable)
+
 
 Outputs
 ---
@@ -13,6 +13,7 @@ Outputs
 
 Other Materials and Supplies
 ---
+0. Freezing Solution (variable)
 0. 1.8ml Cryotubes
 0. Pasteur pipette
 0. 25ml petri dish 
