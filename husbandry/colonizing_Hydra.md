@@ -17,10 +17,21 @@ Equipment
 ---
 0. Graduated Cylinder 
 
-Procedure (Approximate Duration)
+Procedure (15 minutes)
 ---
-0. Collect hydra by using a pasteur pipitte
-0. 
+0. Measure out 600ml of Hydra Medium
+0. Pour Hydra Medium into cleaned, unused Hydra Tray
+0. Collect desired number of hydra by using a pasteur pipitte
+0. Place hydra into the filled hydra tray.
+0. Place Hydra tray into 18C incubator.
+
 Workflow Information
 ---
-Describe how this protocol fits in with a larger workflow. Which protocols come before it, and which come after it.
+Protocols before Culturing Hydra
+
+0. Hydra Recipe Protocol
+
+Protocols after Culturing Hydra
+
+0. Hydra Feeding
+0. Hydra Breeding
