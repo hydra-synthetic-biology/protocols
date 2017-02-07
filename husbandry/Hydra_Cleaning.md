@@ -30,6 +30,8 @@ Procedure (20 - 40 minutes)
 0. Place wire rack in sink
 0. Place sieve on top of rack 
 0. Take hydra dish and slowly pour out hydra medium through the seive (Shrimp should flow through. Any detached hydra should be caught in seive.)
+0. Add 100ml of hydra medium to the dish and carefully rock back and forth around dish
+0. Pour out hydra medium through sieve.
 0. Use graduated cylinder to measure 600ml of hydra medium.
 0. Slowly pour hydra medium into the recently emptied hydra dish.
 0. Repeat until all hydra dishes have been emptied and refilled
