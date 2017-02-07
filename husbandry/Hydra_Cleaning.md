@@ -17,7 +17,7 @@ Other Materials and Supplies
 
 Equipment
 ---
-0. Sieve
+0. 300um Sieve
 0. Collection dish
 0. Pasteur Pipette
 0. Wire Rack
