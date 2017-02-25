@@ -1,4 +1,4 @@
-Culturing Hydra
+Colonize Hydra
 ===
 
 This protocol is used to create a Hydra colony (Used to create the "Hydra Item" for aquarium)
