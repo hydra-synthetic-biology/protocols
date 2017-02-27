@@ -7,6 +7,11 @@ Inputs
 0. 25ML and/or 600ML Hydra
 0. Hatched Brine Shrimp
 
+Outputs
+---
+
+0. 25ML and/or 600ML Hydra
+
 Materials and Supplies
 ---
 
