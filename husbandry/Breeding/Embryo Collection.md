@@ -5,7 +5,8 @@ This protocol is used to collect oocytes and embryos attached to adult hydra for
 
 Inputs
 ---
-0. Adult Hydra 
+0. Female Hydra
+0. Male Hydra
 
 Outputs
 ---
