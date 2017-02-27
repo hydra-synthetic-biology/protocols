@@ -6,7 +6,7 @@ This protocol is used to create a Hydra colony (Used to create the "Hydra Item" 
 Inputs
 ---
 0. Hydra
-0. Hydra Tray
+0. Hydra Tray (600ML or 25ML)
 0. Hydra Medium
 
 Outputs
