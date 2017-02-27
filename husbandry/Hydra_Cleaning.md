@@ -5,11 +5,11 @@ This protocol is used to clean the hydra an hour after feeding and at the end of
 
 Inputs
 ---
-0. Hydra post feeding or hydra post pooping
+0. 25ML and/or 600ML Hydra
 
 Outputs
 ---
-0. Cleaned hydra colony
+0. 25ML and/or 600ML Hydra
 
 Other Materials and Supplies
 ---
