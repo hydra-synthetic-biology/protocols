@@ -11,7 +11,7 @@ Inputs
 
 Outputs
 ---
-0. Hydra Colony, Strain, Etc.
+0. 25ML or 600ML Hydra
 
 Equipment
 ---
