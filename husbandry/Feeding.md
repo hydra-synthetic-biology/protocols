@@ -4,7 +4,7 @@ Feeding
 Inputs
 ---
 
-0. Hungry Hungy Hyrdra
+0. 25ML and/or 600ML Hydra
 0. Hatched Brine Shrimp
 
 Materials and Supplies
