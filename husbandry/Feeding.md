@@ -12,7 +12,7 @@ Materials and Supplies
 
 0. Hydra Medium
 0. DI H20
-0. Isopropanol
+0. 10% Bleach Solution
 
 
 Equipment
@@ -36,7 +36,7 @@ Procedure
 0. Fill collection dish with hydra medium
 0. Use transfer pippette to collect brine shrimp out of collection dish
 0. Give each hydra tray approximately 3 pippettes of brine shimp.
-0. Clean Equipment by first rinsing with DI H2O. Then with isopropanol by dunking and place on drying rack
+0. Clean Equipment by soaking in 10% bleach for 5 minutes, then rinsing with DI H2O and placing on drying rack in Hydra area.
 
 Workflow Information
 ---
