@@ -17,7 +17,7 @@ Other Materials and Supplies
 
 Equipment
 ---
-0. 300um Sieve
+0. 300um steel mesh
 0. Pasteur Pipette
 0. Wire Rack
 0. 1L Graduated Cylinder
@@ -29,7 +29,7 @@ Procedure (20 - 40 minutes)
 0. Place 300um steel mesh on top of hydra waste bucket
 0. Take hydra tray and slowly pour out hydra medium through the mesh (Shrimp should flow through. Any detached hydra should be caught in mesh.)
 0. Add 100ml of hydra medium to the tray and carefully rock back and forth around tray
-0. Pour out hydra medium through sieve.
+0. Pour out hydra medium through mesh.
 0. Use graduated cylinder to measure 600ml of hydra medium.
 0. Slowly pour hydra medium into the recently emptied hydra tray.
 0. Repeat until all hydra trays have been emptied and refilled
