@@ -22,13 +22,13 @@ Equipment
 0. Wire Rack
 0. 1L Graduated Cylinder
 0. Hydra Medium Squirt Bottle
-0. Hydra tray (Tray or 25ML Petri Dish)
+0. Hydra tray (600ML hydra tray or 25ML Petri Dish)
 
 Procedure (20 - 40 minutes)
 ---
 0. Place 300um filter on top of hydra waste bucket or into collection dish (photo)
 0. Take hydra tray and slowly pour out hydra medium through the filter (Shrimp should flow through. Any detached hydra should be caught in mesh.) (photo)
-0. Add 100ml of hydra medium to 1L hydra tray or 10ml for 25ML hydra tray. Carefully rock back and forth around tray
+0. Add 100ml of hydra medium to 600ML hydra tray or 10ml for 25ML hydra tray. Carefully rock back and forth around tray
 0. Pour out hydra medium through filter.
 0. Add 600ml of hydra medium.
 0. Slowly pour hydra medium into the recently emptied hydra tray and place into appropriate incubator (18C, 10C or 4C).
