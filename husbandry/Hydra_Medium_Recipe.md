@@ -27,5 +27,5 @@ Procedure
 ---
 0. Weigh out each salt
 0. Place weighed salt into Nalgene tank.
-0. Add 50L Nanopure H20
+0. Add 50L DI H20
 0. Stir with Stir paddle until all salts are dissolved.
