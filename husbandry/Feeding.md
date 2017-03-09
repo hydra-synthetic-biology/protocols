@@ -41,7 +41,7 @@ Procedure
 0. Rinse with Hydra Medium. (photo)
 0. Fill collection dish with hydra medium
 0. Use transfer pippette to collect brine shrimp out of collection dish (photo)
-0. Give each 1L hydra tray approximately 3 pippettes of brine shimp and 25ML Hydra Dish 1/2 pippette. (photo)
+0. Give each 600ML hydra tray approximately 3 pippettes of brine shimp and 25ML Hydra Dish 1/2 pippette. (photo)
 0. Clean Equipment by soaking in 10% bleach for 30 minutes, then rinsing with DI H2O and placing on drying rack in Hydra area.
 
 Workflow Information
