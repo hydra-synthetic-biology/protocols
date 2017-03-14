@@ -27,6 +27,7 @@ Equipment
 
 Procedure (20 minutes)
 ---
+
 0. Place Imhoff hatcing cone into a slot of the imhoff cone rack (photo) 
 0. Fill an Imhoff Hatching Cone with 500ml of Artificial Sea Water (photo)
 0. Weigh 2g of brine shrimp eggs (photo)
