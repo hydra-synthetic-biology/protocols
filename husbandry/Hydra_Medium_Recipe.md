@@ -25,7 +25,7 @@ Equipment
 
 Procedure
 ---
-0. Weigh out each salt
+0. Weigh out each salt (photo)
 0. Place weighed salt into 50L hydra tank. (photo)
 0. Add 50L DI H20 (photo)
 0. Stir with Stir paddle until all salts are dissolved.
