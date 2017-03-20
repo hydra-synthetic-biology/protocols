@@ -31,6 +31,7 @@ Procedure
 ---
 
 0. Turn off brine shrimp air pump
+0. Remove rigid tubing from hatching cone. Rinse with tap water, to remove egg shells, and at least 70% EtOH.
 0. Set timer for 10 minutes
 0. Place Brine shrimp filter into a collection dish. (photo)
 0. After 10 minutes pour off the top layer of hatched egg shells into sink. (photo)
