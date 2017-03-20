@@ -21,7 +21,7 @@ Equipment
 
 0. Scale
 0. Stir Paddle
-0. Nalgene Tank
+0. 50L Hydra Nalgene Tank
 
 Procedure
 ---
