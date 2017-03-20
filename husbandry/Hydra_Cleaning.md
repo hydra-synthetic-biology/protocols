@@ -33,7 +33,7 @@ Procedure (20 - 40 minutes)
 0. Add 600ml of hydra medium.
 0. Slowly pour hydra medium into the recently emptied hydra tray and place into appropriate incubator (18C, 10C or 4C).
 0. Repeat until all hydra trays have been emptied and refilled
-0. Take filter and invert into a new, unused hydra tray. (photo)
+0. Take filter and invert into either a new, unused hydra tray (if crowding in all other trays is apparent) or a tray with low hydra population. (photo)
 0. Rinse inverted filter with hydra medium squirt bottle until all detached hydra are in the hydra tray. (photo)
 0. Place hydra tray into appropriate incubatory (18C, 10C, or 4C)
 
