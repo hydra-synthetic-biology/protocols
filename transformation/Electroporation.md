@@ -56,6 +56,5 @@ Procedure (Approximate Duration)
 
 Workflow Information
 ---
-Before
 0. Electroporation Media
 0. Plasmid Prep
