@@ -50,7 +50,7 @@ Procedure (Approximate Duration)
 0. Remove dish from 4C
 0. Collect hydra and place up to 5 hydra into empty 1.5 ml epp tubes on ice
 0. Remove 1xPBS leaving hydra behind
-0. add electroporation media into each tube 
+0. add 400ul electroporation media into each tube 
 0. use pippette to transfer hydra and media to chilled cuvette sitting on ice.
 0. enter desired voltage into electroporater 
 0. place cuvette containing hydra into electroporater
