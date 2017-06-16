@@ -42,6 +42,7 @@ Procedure (Approximate Duration)
 0. Repeat steps 1 through 4 (not step 0) 6 times.
 0. On the last iteration fill dish with 15ml chilled 1xPBS and place in 4C for 15mins
 0. Prepare enough electroporation media for each set of 5 hydra to be electroporated (1 electroporation event includes 275ul Di H2O + plasmid, 125ul HM (2.75:1.25))
+0. Retrieve X cuvettes from the freezer (1 cuvette/ ~ 5hydra)
 0. pippette 400ul of electroporation media into empty cuvette on ice.
 0. enter desired voltage into electroporater 
 0. place cuvette containing just electroporation media into electroporater
