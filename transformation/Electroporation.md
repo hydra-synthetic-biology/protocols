@@ -47,7 +47,8 @@ Procedure (Approximate Duration)
 0. place cuvette containing just electroporation media into electroporater
 0. press pulse button twice (you should hear a beep)
 0. Press the "time constant" button once. (pulse length should = 3.5 to 6ms. If pulse length lands outside slot remake the electroporation media)
-0. Remove dish from 4C
+0. Retrieve a 24 well plate and add 20% Dissociation Medium into empty wells equal to the number of eletroporations being done.
+0. Remove dish with hydra in Di H2O from 4C
 0. Collect hydra and place up to 5 hydra into empty 1.5 ml epp tubes on ice
 0. Remove 1xPBS leaving hydra behind
 0. add 400ul electroporation media into each tube 
