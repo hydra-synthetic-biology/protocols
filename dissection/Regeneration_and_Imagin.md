@@ -53,7 +53,7 @@ Procedure (30mins)
 0. Turn on Flourescent Lamp
 0. Turn on Shutter Controller 
 0. Turn on Lamp Controller
-0. Turn on **
+0. Turn on 
 0. Turn on XY Controller
 0. Turn on Z Controller
 0. Place the Microscope Slide Stage insert into the microscope stage 
@@ -62,8 +62,16 @@ Procedure (30mins)
 0. Open NIS Elements Software located on the taskbar of desktop
 0. Once software has loaded open the ND Acquisition program
 0. When the window opens click the "Load" button at the bottom of the window and load the User specifed imaging settings (2hour, 4hour, 8hour, 16hour, 24hour (all options are available with a 5 minute imaging bursts as well))
-0. Click the lamda tab to set the user specified imaging wavelengths ********
-0. 
+0. Click the lamda tab to set the user specified imaging wavelengths 
+0. Click the "quality imaging" button located in the control bar at the top of the elements software window, to the left of the "stop" button. This will bring up a new window showing a live video of your sample
+0. Press the "Keep Auto Scale" button. (This scales the brightness and color levels automatically during the imaging process)
+0. Make sure the sample is centered and then press the "stop" button
+0. Designate a save file path by clicking the "browse" button next to the "path" setting in the "ND Acquisition" window.
+0. For new users create a new folder under "2TB Storage" with their username as folder name.
+0. Under the users folder create a new folder with the title "Timelapse and date of imaging"
+0. Then click the "OK" button
+0. The timelapse is now ready to run. Click the "Run Now" button in the bottom right of the "ND Acquisition" window.
+
 
 Workflow Information
 ---
