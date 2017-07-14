@@ -49,7 +49,24 @@ Procedure (30mins)
 0. Take 3 100um spacers and peel adhesive paper from proctive sheets on both sides and place onto new microscope slide
 0. Collect the hydra piece thatis to be imaged with a pasteur pipette and place no more that 1 drop, including hydra, into the center of the spacer.
 0. Take a cover slip and genlty drop onto the cover the spacer. 
+0. Bring slide to the Nikon Ti-Eclipse microscope located in the back of the mammalian cell culture room 
+0. Turn on Flourescent Lamp
+0. Turn on Shutter Controller 
+0. Turn on Lamp Controller
+0. Turn on **
+0. Turn on XY Controller
+0. Turn on Z Controller
+0. Place the Microscope Slide Stage insert into the microscope stage 
+0. Place the microscope slide onto the the stage with the coverslip pointed down.
+0. Adjust the width of the slide holders as need to hold the microscope slide in placed
+0. Open NIS Elements Software located on the taskbar of desktop
+0. Once software has loaded open the ND Acquisition program
+0. When the window opens click the "Load" button at the bottom of the window and load the User specifed imaging settings (2hour, 4hour, 8hour, 16hour, 24hour (all options are available with a 5 minute imaging bursts as well))
+0. Click the lamda tab to set the user specified imaging wavelengths ********
+0. 
 
 Workflow Information
 ---
 After this protocol proceed to regeneration vsualization.
+
+
