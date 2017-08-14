@@ -18,6 +18,8 @@ N/A
 
 Other Materials and Supplies
 ---
+0. PCR tube
+0. 10ul pipette tips 
 
 Equipment
 ---
@@ -26,8 +28,15 @@ Equipment
 
 Procedure (Approximate Duration)
 ---
-0.
+0. pipette X ul of Cas9 into PCR tube
+0. pipette X ul of sgRNA into PCR tube
+0. pipette the solution up and down 10 times to ensure proper mixing
+0. set the thermocycler to 5mins at 37C 
+0. place the PCR tube into the termocycle, close lid and press start
+0. when finished retrieve the PCR tube and place in 4C until use
 
 Workflow Information
 ---
-Describe how this protocol fits in with a larger workflow. Which protocols come before it, and which come after it.
+The output of this protocol is occasionally used during the hydra electroporation protocol
+
+
