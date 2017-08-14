@@ -6,7 +6,7 @@ This protocol is used to create the Cas9/sgRNA complex.
 Inputs
 ---
 0. Cas9 (wild type, NLS, Electroporation Ready, etc)
-0. sgRNA
+0. sgRNA (should have item number)
 
 Outputs
 ---
