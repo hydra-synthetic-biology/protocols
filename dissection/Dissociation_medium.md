@@ -1,16 +1,36 @@
-Dissociation medium
-STOCK 1
+Dissociation medium (1L)
+===
 
-CaCl2 - 1.47g/100ml; 5mM
-MgSO4 - .49g/100ml; 1mM
-KCl - 4.18g/100ml; 2.8mM
-TES or HEPES - 4.95g/100ml; 11mM
+Inputs
+---
 
-STOCK 2
-NaHPO4 - .19g/100ml; .67mM
-KH2PO4 .12g/100ml; .44mM
+0. 0.268g KCl
+0. 0.666g CaCl2
+0. 0.144g MgSO4
+0. 1.5g Sodium Citrate
+0. 0.66g Sodium Pyruvate
+0. 1.08g Glucose
+0. 2.87g TES Buffer
+0. 1L DiH2O
 
-STOCK 3
-Na Pyruvate 1.1g/ml; 5mM
-Na3 Citrate 2.94g/ml; 5mM
+Outputs
+---
+
+0. Dissociation Medium
+
+Equipment
+---
+
+0. Scale
+0. Bottle
+
+Procedure
+---
+0. Weigh out each salt (photo)
+0. Place weighed salt into bottle. (photo)
+0. Add XL DI H20 (photo)
+0. Mix water and salts by shaking bottle or other means until all salts are dissolved 
+
+
+
 
