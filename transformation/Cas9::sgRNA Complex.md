@@ -37,6 +37,6 @@ Procedure (Approximate Duration)
 
 Workflow Information
 ---
-The output of this protocol is occasionally used during the hydra electroporation protocol
+The output of this protocol is used during the hydra electroporation protocol. Output of this protocol will be an input of electroporation protocol
 
 
