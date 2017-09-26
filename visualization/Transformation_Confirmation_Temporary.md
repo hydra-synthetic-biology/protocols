@@ -40,16 +40,20 @@ Procedure (Approximate Duration)
 0. Turn on Turn on Microscope (picture)
 0. Turn on XY Controller (picture)
 0. Turn on Z Controller(picture)
-0. 
-0. When a Hydra is in focus use the xy controller to look around the entire hydra counting the number of transgenic cells in that hydra (picture)
-0. Enter number
+0. Open Nikon Elements Software
+0. When software has opened select the GFP Channel and adjust the picture setting to visualize hydra
+0. Bring the hydra into focus
+0. When a Hydra is in focus use the xy controller to look around the entire hydra counting the number of transgenic cells in that hydra (picture). As you image keep track of how many hydra contain transgenic cells.
+0. Enter number of transgenic cells
 0. If this hydra has never been imaged click the "capture image" button. 
 0. To save this file create a new folder titled with the item number
-0. 
-
-
+0. Save the image with the following file name format: MMDDYY_Itemnumber_Imagenumber
+0. Repeat for all hydra on this slide
+0. Enter number of hydra that contained transgenic cells
+0. Repeat for all Slides
 
 Workflow Information
 ---
-Describe how this protocol fits in with a larger workflow. Which protocols come before it, and which come after it.
+This protocol takes the output of any transformation protocol (electroporation, lipofection, PEI), it can also take the output of colonize hydra. 
 
+The output of this protocol can be used in all of the husbandry protocols and the transformation protocols. Anything that takes hydra as an input
