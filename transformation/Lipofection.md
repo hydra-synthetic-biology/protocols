@@ -11,6 +11,7 @@ Inputs
 0. Amount of Plasmid (This will be removed when optimized)
 0. Amount of Lipid (This will be removed when optimized)
 0. incubation length (hrs) (This will be removed when optimized)
+0. Number of hydra (will be removed when optimized)
 
 Outputs
 ---
